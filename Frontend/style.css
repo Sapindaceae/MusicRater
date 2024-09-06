@@ -1,0 +1,27 @@
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #483d8b;
+    color: white;
+    font-size: 30px;
+  }
+
+.button {
+    background-color: #483d8b; 
+    border: none;
+    color: white;
+    padding: 15px 80px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+
+.Startbildschirm {
+    vertical-align: middle;
+}
+
+
+.spacer {
+  height: 100px;
+}
